@@ -1,7 +1,7 @@
 # 1/usr/bin/python3
 
 def main(msg):
-    // new one
+    // new2
     print(msg)
 
 
